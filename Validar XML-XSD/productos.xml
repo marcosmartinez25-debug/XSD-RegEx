@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tienda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="productos.xsd">
+
+  <producto codigo="1">
+    <nombre>Camiseta Real Betis 1ª equipación</nombre>
+    <descripcion>Camiseta oficial primera equipación</descripcion>
+    <precio>89.95</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-camiseta-1.jpg</imagen>
+  </producto>
+
+  <producto codigo="2">
+    <nombre>Camiseta Real Betis 2ª equipación</nombre>
+    <descripcion>Camiseta oficial segunda equipación</descripcion>
+    <precio>89.95</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>Agotado</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-camiseta-2.jpg</imagen>
+  </producto>
+
+  <producto codigo="3">
+    <nombre>Bufanda Real Betis</nombre>
+    <descripcion>Bufanda verde y blanca con escudo</descripcion>
+    <precio>19.99</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-bufanda.jpg</imagen>
+  </producto>
+
+  <producto codigo="4">
+    <nombre>Gorra Real Betis</nombre>
+    <descripcion>Gorra ajustable con logotipo bordado</descripcion>
+    <precio>24.90</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-gorra.jpg</imagen>
+  </producto>
+
+  <producto codigo="5">
+    <nombre>Balón Real Betis</nombre>
+    <descripcion>Balón de entrenamiento con diseño verdiblanco</descripcion>
+    <precio>29.95</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-balon.jpg</imagen>
+  </producto>
+
+  <producto codigo="6">
+    <nombre>Taza Real Betis</nombre>
+    <descripcion>Taza cerámica con escudo oficial</descripcion>
+    <precio>12.50</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>Agotado</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-taza.jpg</imagen>
+  </producto>
+
+  <producto codigo="7">
+    <nombre>Bandera Real Betis</nombre>
+    <descripcion>Bandera grande para balcón o estadio</descripcion>
+    <precio>14.99</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-bandera.jpg</imagen>
+  </producto>
+
+  <producto codigo="8">
+    <nombre>Llavero Real Betis</nombre>
+    <descripcion>Llavero metálico con escudo</descripcion>
+    <precio>6.99</precio>
+    <categoria>Betis</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/betis-llavero.jpg</imagen>
+  </producto>
+
+  <producto codigo="9">
+    <nombre>Ratón gaming RGB</nombre>
+    <descripcion>Ratón óptico con iluminación RGB y 6 botones</descripcion>
+    <precio>29.90</precio>
+    <categoria>Periféricos</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/raton-gaming-rgb.jpg</imagen>
+  </producto>
+
+  <producto codigo="P10">
+    <nombre>Teclado mecánico</nombre>
+    <descripcion>Teclado mecánico con retroiluminación</descripcion>
+    <precio>79.00</precio>
+    <categoria>Periféricos</categoria>
+    <disponibilidad>Agotado</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/teclado-mecanico.jpg</imagen>
+  </producto>
+
+  <producto codigo="P11">
+    <nombre>Auriculares inalámbricos</nombre>
+    <descripcion>Auriculares Bluetooth con micrófono</descripcion>
+    <precio>49.99</precio>
+    <categoria>Periféricos</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/auriculares-bt.jpg</imagen>
+  </producto>
+
+  <producto codigo="P12">
+    <nombre>Alfombrilla XXL</nombre>
+    <descripcion>Alfombrilla de ratón XXL para escritorio</descripcion>
+    <precio>18.50</precio>
+    <categoria>Periféricos</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/alfombrilla-xxl.jpg</imagen>
+  </producto>
+
+  <producto codigo="P13">
+    <nombre>Cámara web Full HD</nombre>
+    <descripcion>Webcam 1080p para videollamadas</descripcion>
+    <precio>34.95</precio>
+    <categoria>Periféricos</categoria>
+    <disponibilidad>Agotado</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/webcam-fullhd.jpg</imagen>
+  </producto>
+
+  <producto codigo="P14">
+    <nombre>Micrófono USB</nombre>
+    <descripcion>Micrófono USB para streaming y reuniones</descripcion>
+    <precio>59.90</precio>
+    <categoria>Periféricos</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/microfono-usb.jpg</imagen>
+  </producto>
+  
+  <producto codigo="P15">
+    <nombre>Hub USB 4 puertos</nombre>
+    <descripcion>Hub USB con 4 puertos para periféricos</descripcion>
+    <precio>15.99</precio>
+    <categoria>Periféricos</categoria>
+    <disponibilidad>En stock</disponibilidad>
+    <imagen>https://tienda-ejemplo.com/img/hub-usb-4p.jpg</imagen>
+  </producto
+</tienda>
